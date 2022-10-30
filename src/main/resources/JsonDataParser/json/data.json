@@ -1,0 +1,872 @@
+{
+  "address": [
+    {
+      "address": "1509 Culver St",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "29 15th St",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "834 Binoc Ave",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "644 Gershwin Cir",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "748 Townings Dr",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "112 Steppes Pl",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "489 Manchester St",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "892 Downing Ct",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "908 73rd St",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "947 E. Rose Dr",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    },
+    {
+      "address": "951 LoneTree Rd",
+      "zip": "97451",
+      "city": "Culver",
+      "state": "Unknown"
+    }
+  ],
+  "medicalRecords": [
+    {
+      "description": "",
+      "medications": [
+        "aznol:350mg",
+        "hydrapermazol:100mg"
+      ],
+      "allergies": [
+        "nillacilan"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [
+        "pharmacol:5000mg",
+        "terazine:10mg",
+        "noznazol:250mg"
+      ],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": [
+        "peanut"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "tetracyclaz:650mg"
+      ],
+      "allergies": [
+        "xilliathal"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": [
+        "shellfish"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "hydrapermazol:300mg",
+        "dodoxadin:30mg"
+      ],
+      "allergies": [
+        "shellfish"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "aznol:60mg",
+        "hydrapermazol:900mg",
+        "pharmacol:5000mg",
+        "terazine:500mg"
+      ],
+      "allergies": [
+        "peanut",
+        "shellfish",
+        "aznol"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "thradox:700mg"
+      ],
+      "allergies": [
+        "illisoxian"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "aznol:200mg"
+      ],
+      "allergies": [
+        "nillacilan"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [
+        "ibupurin:200mg",
+        "hydrapermazol:400mg"
+      ],
+      "allergies": [
+        "nillacilan"
+      ]
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "noxidian:100mg",
+        "pharmacol:2500mg"
+      ],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "description": "",
+      "medications": [
+        "tradoxidine:400mg"
+      ],
+      "allergies": []
+    }
+  ],
+  "users": [
+    {
+      "firstname": "John",
+      "lastname": "Boyd",
+      "birthdate": "1984-03-06",
+      "email": "jaboydt1O@email.com",
+      "phone": "841-874-6512",
+      "password": "sUKl0qPc",
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "aznol:350mg",
+          "hydrapermazol:100mg"
+        ],
+        "allergies": [
+          "nillacilan"
+        ]
+      }
+    },
+    {
+      "firstname": "Jacob",
+      "lastname": "Boyd",
+      "birthdate": "1989-03-06",
+      "email": "drkKhi@email.com",
+      "phone": "841-874-6513",
+      "password": "9d6qhOVQ",
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "pharmacol:5000mg",
+          "terazine:10mg",
+          "noznazol:250mg"
+        ],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Tenley",
+      "lastname": "Boyd",
+      "birthdate": "2012-02-18",
+      "email": "tenz3GN@email.com",
+      "phone": "841-874-6512",
+      "password": "fb4UhaGp",
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": [
+          "peanut"
+        ]
+      }
+    },
+    {
+      "firstname": "Roger",
+      "lastname": "Boyd",
+      "birthdate": "2017-09-06",
+      "email": "jaboydIO6@email.com",
+      "phone": "841-874-6512",
+      "password": "xDoeXn5d",
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Felicia",
+      "lastname": "Boyd",
+      "birthdate": "1986-01-08",
+      "email": "jaboydzOd@email.com",
+      "phone": "841-874-6544",
+      "password": "C0TRxrnJ",
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "tetracyclaz:650mg"
+        ],
+        "allergies": [
+          "xilliathal"
+        ]
+      }
+    },
+    {
+      "firstname": "Jonanathan",
+      "lastname": "Marrack",
+      "birthdate": "1989-01-03",
+      "email": "drkd9I@email.com",
+      "phone": "841-874-6513",
+      "password": "eytspJyV",
+      "address": {
+        "address": "29 15th St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Tessa",
+      "lastname": "Carman",
+      "birthdate": "2012-02-18",
+      "email": "tenzfZT@email.com",
+      "phone": "841-874-6512",
+      "password": "Dp2BD1sV",
+      "address": {
+        "address": "834 Binoc Ave",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Peter",
+      "lastname": "Duncan",
+      "birthdate": "2000-09-06",
+      "email": "jaboydZQ0@email.com",
+      "phone": "841-874-6512",
+      "password": "BY5APmZB",
+      "address": {
+        "address": "644 Gershwin Cir",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": [
+          "shellfish"
+        ]
+      }
+    },
+    {
+      "firstname": "Foster",
+      "lastname": "Shepard",
+      "birthdate": "1980-01-08",
+      "email": "jaboyd9v7@email.com",
+      "phone": "841-874-6544",
+      "password": "oj1up9vo",
+      "address": {
+        "address": "748 Townings Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Tony",
+      "lastname": "Cooper",
+      "birthdate": "1994-03-06",
+      "email": "tcoopdtE@ymail.com",
+      "phone": "841-874-6874",
+      "password": "t6oawnxb",
+      "address": {
+        "address": "112 Steppes Pl",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "hydrapermazol:300mg",
+          "dodoxadin:30mg"
+        ],
+        "allergies": [
+          "shellfish"
+        ]
+      }
+    },
+    {
+      "firstname": "Lily",
+      "lastname": "Cooper",
+      "birthdate": "1994-03-06",
+      "email": "lilyHj3@email.com",
+      "phone": "841-874-9845",
+      "password": "fwVyo5M7",
+      "address": {
+        "address": "489 Manchester St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Sophia",
+      "lastname": "Zemicks",
+      "birthdate": "1988-03-06",
+      "email": "sophebh@email.com",
+      "phone": "841-874-7878",
+      "password": "GASLSLuk",
+      "address": {
+        "address": "892 Downing Ct",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "aznol:60mg",
+          "hydrapermazol:900mg",
+          "pharmacol:5000mg",
+          "terazine:500mg"
+        ],
+        "allergies": [
+          "peanut",
+          "shellfish",
+          "aznol"
+        ]
+      }
+    },
+    {
+      "firstname": "Warren",
+      "lastname": "Zemicks",
+      "birthdate": "1985-03-06",
+      "email": "wardvwP@email.com",
+      "phone": "841-874-7512",
+      "password": "8p9Wy1vN",
+      "address": {
+        "address": "892 Downing Ct",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Zach",
+      "lastname": "Zemicks",
+      "birthdate": "2017-03-06",
+      "email": "zarcgoX@email.com",
+      "phone": "841-874-7512",
+      "password": "wEDZ1T1b",
+      "address": {
+        "address": "892 Downing Ct",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Reginold",
+      "lastname": "Walker",
+      "birthdate": "1979-08-30",
+      "email": "reghPn@email.com",
+      "phone": "841-874-8547",
+      "password": "LznIkVmq",
+      "address": {
+        "address": "908 73rd St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "thradox:700mg"
+        ],
+        "allergies": [
+          "illisoxian"
+        ]
+      }
+    },
+    {
+      "firstname": "Jamie",
+      "lastname": "Peters",
+      "birthdate": "1982-03-06",
+      "email": "jpetergxF@email.com",
+      "phone": "841-874-7462",
+      "password": "Pzq1SFVL",
+      "address": {
+        "address": "908 73rd St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Ron",
+      "lastname": "Peters",
+      "birthdate": "1965-04-06",
+      "email": "jpeterQ54@email.com",
+      "phone": "841-874-8888",
+      "password": "sNOH4Ubt",
+      "address": {
+        "address": "112 Steppes Pl",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Allison",
+      "lastname": "Boyd",
+      "birthdate": "1965-03-15",
+      "email": "alyTPA@imail.com",
+      "phone": "841-874-9888",
+      "password": "UdIsqPal",
+      "address": {
+        "address": "112 Steppes Pl",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "aznol:200mg"
+        ],
+        "allergies": [
+          "nillacilan"
+        ]
+      }
+    },
+    {
+      "firstname": "Brian",
+      "lastname": "Stelzer",
+      "birthdate": "1975-12-06",
+      "email": "bstelzHk@email.com",
+      "phone": "841-874-7784",
+      "password": "ryOsAAvF",
+      "address": {
+        "address": "947 E. Rose Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "ibupurin:200mg",
+          "hydrapermazol:400mg"
+        ],
+        "allergies": [
+          "nillacilan"
+        ]
+      }
+    },
+    {
+      "firstname": "Shawna",
+      "lastname": "Stelzer",
+      "birthdate": "1980-07-08",
+      "email": "ssanwW9s@email.com",
+      "phone": "841-874-7784",
+      "password": "SGZ5cbSP",
+      "address": {
+        "address": "947 E. Rose Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Kendrik",
+      "lastname": "Stelzer",
+      "birthdate": "2014-03-06",
+      "email": "bstelxez@email.com",
+      "phone": "841-874-7784",
+      "password": "OeMrjZGu",
+      "address": {
+        "address": "947 E. Rose Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "noxidian:100mg",
+          "pharmacol:2500mg"
+        ],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Clive",
+      "lastname": "Ferguson",
+      "birthdate": "1994-03-06",
+      "email": "clivfdoEv@ymail.com",
+      "phone": "841-874-6741",
+      "password": "IgZ4KTa9",
+      "address": {
+        "address": "748 Townings Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [],
+        "allergies": []
+      }
+    },
+    {
+      "firstname": "Eric",
+      "lastname": "Cadigan",
+      "birthdate": "1945-08-06",
+      "email": "grampsN4C@email.com",
+      "phone": "841-874-7458",
+      "password": "lLBTwx9T",
+      "address": {
+        "address": "951 LoneTree Rd",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      },
+      "medicalRecord": {
+        "description": "",
+        "medications": [
+          "tradoxidine:400mg"
+        ],
+        "allergies": []
+      }
+    }
+  ],
+  "stations": [
+    {
+      "name": "Berlin Panic"
+    },
+    {
+      "name": "Mega pixie"
+    },
+    {
+      "name": "Matilida Wonder"
+    },
+    {
+      "name": "A Dozendust"
+    }
+  ],
+  "firestations": [
+    {
+      "station": {
+        "name": "Berlin Panic"
+      },
+      "address": {
+        "address": "1509 Culver St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Mega pixie"
+      },
+      "address": {
+        "address": "29 15th St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Berlin Panic"
+      },
+      "address": {
+        "address": "834 Binoc Ave",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Matilida Wonder"
+      },
+      "address": {
+        "address": "644 Gershwin Cir",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Berlin Panic"
+      },
+      "address": {
+        "address": "748 Townings Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Berlin Panic"
+      },
+      "address": {
+        "address": "112 Steppes Pl",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "A Dozendust"
+      },
+      "address": {
+        "address": "489 Manchester St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Mega pixie"
+      },
+      "address": {
+        "address": "892 Downing Ct",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Matilida Wonder"
+      },
+      "address": {
+        "address": "908 73rd St",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "A Dozendust"
+      },
+      "address": {
+        "address": "112 Steppes Pl",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Matilida Wonder"
+      },
+      "address": {
+        "address": "947 E. Rose Dr",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    },
+    {
+      "station": {
+        "name": "Mega pixie"
+      },
+      "address": {
+        "address": "951 LoneTree Rd",
+        "zip": "97451",
+        "city": "Culver",
+        "state": "Unknown"
+      }
+    }
+  ]
+}
